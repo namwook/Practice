@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nameuk/CLionProjects/Practice/dataStructure/circularQueue.h
+
+/home/nameuk/CLionProjects/Practice/dataStructure/linearQueue.h
+
+/home/nameuk/CLionProjects/Practice/dataStructure/main.cpp
+iostream
+-
+circularQueue.h
+/home/nameuk/CLionProjects/Practice/dataStructure/circularQueue.h
+linearQueue.h
+/home/nameuk/CLionProjects/Practice/dataStructure/linearQueue.h
+
